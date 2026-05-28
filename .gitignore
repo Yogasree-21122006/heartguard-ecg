@@ -1,0 +1,42 @@
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Virtual environment
+
+venv/
+venv2/
+env/
+
+# VS Code
+
+.vscode/
+
+# Outputs
+
+outputs/
+reports/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# TensorFlow logs
+
+logs/
+
+# Model files
+
+*.h5
+*.keras
+*.ckpt
+
+# Dataset
+
+dataset/
+
+# System files
+
+.DS_Store
+Thumbs.db
